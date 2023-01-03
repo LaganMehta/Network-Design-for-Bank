@@ -1,5 +1,4 @@
 # Network-Design-for-Bank
-Using Cisco Packet Tracer we have implemented a sample network design for a bank
 </br>In this project we will primarily focus on design and implementation of Bank Network using 
 Cisco Packet Tracer (CPT). Security breach in the sector of banks is one of the most important 
 concerns that needs to be addressed in the first place since loss of information can lead to huge 
